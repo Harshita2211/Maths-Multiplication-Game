@@ -10,11 +10,12 @@ A simple and interactive multiplication practice game built using **HTML, CSS, a
 - Clean and responsive UI  
 
 ##  Project Structure
+```
 /project
 │── index.html
 │── style.css
 │── script.js
-
+```
 
 ##  How to Run
 1. Download or clone the project.  
